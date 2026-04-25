@@ -229,6 +229,4 @@ itch is released under the MIT License, see the [LICENSE][] file for details.
 
 Here are some other apps people have started:
 
-### Android
-* [Mitch](https://gardenapple.itch.io/mitch)
-
+###  macOS* [Mitch]https://itch.io/app/download?platform=osx)
